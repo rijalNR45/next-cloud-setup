@@ -92,6 +92,11 @@ To access it from phone, open firewall with this command:
 
 now install the app or browse the official next cloud website from your phone. Enter the ip address for the host i.e. 192.168.1.__ . Then enter your login credentials to gain access to the cloud!
 
+# Usability
+
+This setup only allows you to access your cloud only on your local wifi while both the cloud pc and other clients are on the same router. If you want to be able to access it from whenever you want, 
+you need to perform additional steps. And if you want it to work 24/7, you might need to make this laptop a stationery all-time booted device. or you could just get a raspberry pi and make it active
+at all times. 
  
 
 
